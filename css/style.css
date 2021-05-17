@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+.header{
+    height: 100px;
+    background-color: darkolivegreen;
+    text-align: center;
+}
+.header h1{
+    color: #fff;
+}
+.content{
+ overflow: hidden;
+}
+.nav{
+ width: 30%;
+ height: 640px;
+ background-color: rgb(139, 51, 98);
+ float: left;
+ text-align: center;
+}
+
+.nav h1{
+
+}
+.article{
+width: 50%;
+height: 640px;
+background-color: rgb(214, 57, 57);
+float: left;
+text-align: center;
+}
+.article h1{
+
+}
+.ads{
+width: 20%;
+height: 640px;
+background-color: rgb(88, 40, 88);
+float: right;
+text-align: center;
+}
+.ads h1{
+
+}
+.footer{
+    height:100px;
+    background-color: rgb(93, 93, 124);
+    text-align: center;
+}
